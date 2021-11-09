@@ -24,10 +24,7 @@ public class Solution05 {
         int difference = number1 - number2;
         int quotient = number1/number2;
 
-        System.out.println(number1 + " + " + number2 + " = " + sum);
-        System.out.println(number1 + " - " + number2 + " = " + difference);
-        System.out.println(number1 + " * " + number2 + " = " + product);
-        System.out.println(number1 + " / " + number2 + " = " + quotient);
+        System.out.println(number1 + " + " + number2 + " = " + sum + "\n" + number1 + " - " + number2 + " = " + difference + "\n" + number1 + " * " + number2 + " = " + product + "\n" + number1 + " / " + number2 + " = " + quotient);
 
     }
 }
